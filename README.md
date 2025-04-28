@@ -19,7 +19,7 @@ The main objective of this project is to understand customer behaviour and to ex
   products to females by showing them ads .
 - Among all states Mahrashtra , UP and karnataka are contributing highest sale so, showing ads 
   to the people of these states specially females will be a smart move to increase sales .
-- 
+- Kurta and Set are the top selling product of this store .
 
 ## Tools Used:
 - Pivot Tables
