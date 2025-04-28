@@ -26,3 +26,6 @@ The main objective of this project is to understand customer behaviour and to ex
 - Charts and Graphs
 - Conditional Functions
 - Data cleaning : tools like TEXT, TRIM, and DATE functions
+
+### Dashboard :
+https://github.com/deepak7967/Vrinda-Store-Data-Analysis-/blob/main/Dashboard_.png
